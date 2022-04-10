@@ -107,7 +107,7 @@ const GamePage = (): JSX.Element => {
 	});
 
 	return(
-		<div className='p-8'>
+		<div className='p-8 min-h-screen bg-white'>
 			<h1 className='font-bold text-3xl'>
 				Находка для шпиона онлайн
 			</h1>			
